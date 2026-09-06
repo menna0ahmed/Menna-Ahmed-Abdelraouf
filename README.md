@@ -23,8 +23,11 @@ Tech Stack & Skills
 | **🏠 House Price Prediction** | Predictive machine learning model built using EDA, feature engineering, and regression algorithms. | `Python` `Scikit-Learn` `Pandas` `EDA` |
 | **🖼️ Image Caption Generator** | Deep Learning & NLP desktop app that generates English image captions with automated Arabic translation. | `Python` `Deep Learning` `CNN` `NLP` `GUI` |
 | **🩸 Central Blood Donation Platform** | Full-stack platform managing real-time inventory and secure hospital/donor authentication. | `MongoDB` `Express.js` `React.js` `Node.js` |
-ProjectDescriptionTech Stack🏠 House Price Prediction SystemEnd-to-End ML web application predicting property prices. Integrated a RandomForestRegressor model with a FastAPI REST backend and a dynamic HTML/CSS/JS user interface using Async Fetch API.Python, Scikit-Learn, Pandas, FastAPI, HTML5/CSS3, JavaScript
----
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏠 House Price Prediction System** | End-to-End ML web app predicting property prices. Features a `RandomForestRegressor` model, **FastAPI** REST backend, and interactive UI with Async Fetch API. | `Python` `Scikit-Learn` `FastAPI` `JavaScript` `HTML/CSS` |
+| **🖼️ Image Caption Generator** | Deep Learning & NLP desktop app that generates English image captions with automated Arabic translation. | `Python` `Deep Learning` `CNN` `NLP` `GUI` |
+| **🩸 Central Blood Donation Platform** | Full-stack platform managing real-time inventory and secure hospital/donor authentication. | `MongoDB` `Express.js` `React.js` `Node.js` |
 
 Certifications & Training
 
