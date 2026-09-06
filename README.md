@@ -17,12 +17,6 @@ Tech Stack & Skills
 ---
 
  Key Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🏠 House Price Prediction** | Predictive machine learning model built using EDA, feature engineering, and regression algorithms. | `Python` `Scikit-Learn` `Pandas` `EDA` |
-| **🖼️ Image Caption Generator** | Deep Learning & NLP desktop app that generates English image captions with automated Arabic translation. | `Python` `Deep Learning` `CNN` `NLP` `GUI` |
-| **🩸 Central Blood Donation Platform** | Full-stack platform managing real-time inventory and secure hospital/donor authentication. | `MongoDB` `Express.js` `React.js` `Node.js` |
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **🏠 House Price Prediction System** | End-to-End ML web app predicting property prices. Features a `RandomForestRegressor` model, **FastAPI** REST backend, and interactive UI with Async Fetch API. | `Python` `Scikit-Learn` `FastAPI` `JavaScript` `HTML/CSS` |
